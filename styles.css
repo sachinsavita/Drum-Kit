@@ -3,12 +3,19 @@ body {
   background-color: #283149;
 }
 
-h1 {
+h1{
   font-size: 5rem;
   color: #DBEDF3;
   font-family: 'sacramento', cursive;
   text-shadow: 3px 0 #DA0463;
 
+}
+
+h4{
+  font-size: 1.5rem;
+  color: #DBEDF3;
+  font-family: 'sacramento', cursive;
+  text-shadow: 3px 0 #DA0463;
 }
 
 footer {
